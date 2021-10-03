@@ -1,0 +1,10 @@
+.manu-bar a{
+    text-decoration: none;
+    color: rgb(21, 20, 20);
+    margin-right: 20px;
+    font-size:20px;
+    font-weight: 500;
+}
+.manu-bar a:hover{
+    color:tomato;
+}

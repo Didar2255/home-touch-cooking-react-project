@@ -1,16 +1,18 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
+import './NavBar.css'
 
 const NavBar = () => {
     return (
         <Navbar bg="light" variant="light">
             <Container>
-                <Navbar.Brand href="#home">Ranna Ghor</Navbar.Brand>
-                <Nav className="ms-auto">
-                    <Nav.Link href="#home">Home</Nav.Link>
-                    <Nav.Link href="#features">Services</Nav.Link>
-                    <Nav.Link href="#pricing">Review</Nav.Link>
-                    <Nav.Link href="#pricing">About Us</Nav.Link>
+                <h2 className='text-danger' style={{ fontFamily: 'cursive' }}>RANNA GHOR</h2>
+                <Nav className="ms-auto manu-bar">
+                    <NavLink to='/home'>Home</NavLink>
+                    <NavLink to='/service'>Services</NavLink>
+                    <NavLink to='/review'>Review</NavLink>
+                    <NavLink to='/about'>About us</NavLink>
                 </Nav>
             </Container>
         </Navbar>
