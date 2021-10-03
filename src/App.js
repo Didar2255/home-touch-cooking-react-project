@@ -7,6 +7,7 @@ import Review from '../src/pages/Review/Review'
 import About from '../src/pages/About/About'
 import NotFound from '../src/pages/NotFound/NotFound'
 import NavBar from './components/NavBar/NavBar';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );

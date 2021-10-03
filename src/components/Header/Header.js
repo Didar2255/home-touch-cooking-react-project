@@ -3,8 +3,8 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className=''>
-            <div className="header d-flex align-items-center justify-content-center">
+        <div className=" header d-flex align-items-center justify-content-center">
+            <div className="">
                 <h1 className='title'>Cooking Classes</h1>
             </div>
         </div>
