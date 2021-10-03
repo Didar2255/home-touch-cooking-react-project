@@ -1,5 +1,5 @@
 const ReipesClass = [
-    { id: 101, foodName: 'Breakfast Recipes', Price: 80, foodImage: 'https://images.unsplash.com/photo-1528198622811-0842b4e50787?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80' },
+    { id: 101, foodName: 'Breakfast Recipes', Price: 80, foodImage: 'https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Homemade-Fluffy-Pancakes-Recipe-From-Scratch.jpg' },
 
     { id: 102, foodName: 'Lunch Recipes', Price: 103, foodImage: 'https://assets.epicurious.com/photos/611a86a2dc4d95bbfb20f3dd/1:1/w_1600,c_limit/ChanaMasalaFries_RECIPE_081221_20354.jpg' },
 
