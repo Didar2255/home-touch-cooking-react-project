@@ -1,0 +1,11 @@
+.main{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.main:hover{
+    color: tomato;
+}
+.for-chef{
+    background-image: url('https://varuninamdar.files.wordpress.com/2014/03/homepage-banner-cook.jpg');
+    height: 200px;
+}
