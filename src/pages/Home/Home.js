@@ -35,7 +35,7 @@ const Home = () => {
                 <Link to='/service'>
                     <Button className='bg-danger border border-0 my-3'>ALL CLASSES</Button>
                 </Link>
-                <div className='my-5'>
+                <div className='my-2 bg-light p-3'>
                     <p className='info'>Our best cooking classes</p>
                     <h1 className='mb-4 heading'>Food Blog</h1>
                     <hr />
