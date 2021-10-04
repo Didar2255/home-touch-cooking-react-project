@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="col-md-4 footer-border">
                     <h2>About Us</h2>
                     <h2 className='text-danger' style={{ fontFamily: 'cursive' }}>RANNA GHOR</h2>
-                    <h6>Cooking is a subscription service of The Bangladesh Time. It is a digital cookbook and cooking guide alike, available on all platforms, that helps home cooks of every level discover, save and organize the world’s best recipes</h6>
+                    <h6>Cooking is a subscription service of The Bangladesh Time. It is a digital cooking institute and cooking guide alike, available on all platforms, that helps home cooks of every level discover, save and organize the world’s best recipes.</h6>
                 </div>
                 <div className="col-md-4 footer-border">
                     <h2>Learn more</h2>
