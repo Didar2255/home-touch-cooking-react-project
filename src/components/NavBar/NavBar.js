@@ -20,7 +20,7 @@ const NavBar = () => {
                         Services
                     </NavLink>
                     <NavLink to='/review' activeStyle={activeStyle}>
-                        Review
+                        Reviews
                     </NavLink>
                     <NavLink to='/about' activeStyle={activeStyle}>
                         About us

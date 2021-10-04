@@ -1,5 +1,12 @@
-.info p{
+.heading:hover{
+color: rgb(155, 79, 51);
+}
+.info{
  color: tomato;
  font-weight: 500;
  margin-bottom: 0;
+}
+.blog-img img{
+    width: 500px;
+    border-radius: 10px;
 }
