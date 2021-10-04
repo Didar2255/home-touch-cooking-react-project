@@ -1,6 +1,6 @@
 # Ranna Ghore is a Cooking website
 
-This project made react [Ranna Ghor](https://github.com/facebook/create-react-app).
+This project made react [Ranna Ghor](https://ranna-ghor.netlify.app/).
 
 ## About Us
 Ranna Ghor is a subscription service of The Bangladesh. It is a digital cooking institute and cooking guide alike, available on all platforms, that helps home cooks of every level discover, save and organize the world’s best recipes.
