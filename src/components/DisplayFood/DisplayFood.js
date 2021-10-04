@@ -2,7 +2,6 @@ import React from 'react';
 import { Button, Card, Col } from 'react-bootstrap';
 
 const DisplayFood = (props) => {
-    console.log(props.food)
     const { foodImage, foodName, Price } = props.food
     return (
         <div>
